@@ -1,3 +1,5 @@
 Hello World !!
 Hello Abu!!
 good one
+take input form user
+good validate before taking input value ok
