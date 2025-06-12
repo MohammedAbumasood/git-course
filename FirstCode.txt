@@ -4,4 +4,4 @@ good one
 take input form user
 good validate before taking input value ok
 
-submit data to the database
+submit data to the databasecls
